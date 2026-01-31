@@ -46,8 +46,7 @@ Developed a desktop file system explorer as part of a capstone project, focusing
 
 ## Education
 _____________________
-**Bachelor of Technology (B.Tech) in Computer Science and Engineering  | 2022-2026**
-**Bhubaneswar, India**
+**Bachelor of Technology (B.Tech) in Computer Science and Engineering  | 2022-2026 | Bhubaneswar, India**
 
 ## Certifications
 __________
