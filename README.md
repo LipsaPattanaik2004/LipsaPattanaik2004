@@ -42,7 +42,7 @@ Automated defect lifecycle analysis using Python ETL pipelines and SQL, visualiz
 Created a Python-based data cleaning utility handling missing values, validation, outlier detection, and clean dataset export.
 - File Explorer Application (C++)  
 Developed a desktop file system explorer as part of a capstone project, focusing on core system programming and file handling concepts.
-** Additional projects include sales analytics, QA automation suites, academic Python repositories, and Java-based campus systems. **
+#### Additional projects include sales analytics, QA automation suites, academic Python repositories, and Java-based campus systems. 
 
 ## Education
 _____________________
