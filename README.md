@@ -14,13 +14,13 @@ Email: pattanaiklipsa125@gmail.com
 
 ## Technical Skills
 _____________________
-Programming Languages: Python, Java, C, SQL  
-Data Analytics & Visualization: SQL Analytics, Power BI, Exploratory Data Analysis (EDA), KPI Dashboards  
-Databases & Data Handling: MySQL, Snowflake, Data Modeling, ETL Pipelines  
-Backend & Software Concepts: Object-Oriented Programming (OOPS), DBMS, REST APIs  
-Machine Learning & AI: Regression, Clustering, Feature Engineering, NLP Basics  
-Cloud & DevOps: AWS Cloud Fundamentals, Docker, Kubernetes, CI/CD Concepts  
-Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook
+- Programming Languages: Python, Java, C, SQL  
+- Data Analytics & Visualization: SQL Analytics, Power BI, Exploratory Data Analysis (EDA), KPI Dashboards  
+- Databases & Data Handling: MySQL, Snowflake, Data Modeling, ETL Pipelines  
+- Backend & Software Concepts: Object-Oriented Programming (OOPS), DBMS, REST APIs  
+- Machine Learning & AI: Regression, Clustering, Feature Engineering, NLP Basics  
+- Cloud & DevOps: AWS Cloud Fundamentals, Docker, Kubernetes, CI/CD Concepts  
+- Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook
 
 ## Internships & Practical Experience
 ______________________
@@ -51,13 +51,13 @@ _____________________
 
 ## Certifications
 __________
-**Google Data Analytics Professional Certificate**
-**SQL and Database Management Systems (DBMS) Essentials**  
-**Complete Object-Oriented Programming (OOPS) Fundamentals**  
-**Python Programming for Data Analysis**  
-**Microsoft Power BI Fundamentals**  
-**AWS Cloud Fundamentals**  
-
+- Google Data Analytics Professional Certificate  
+- SQL and Database Management Systems (DBMS) Essentials  
+- Complete Object-Oriented Programming (OOPS) Fundamentals  
+- Python Programming for Data Analysis  
+- Microsoft Power BI Fundamentals  
+- AWS Cloud Fundamentals
+  
 ## Career Interests
 _________________
 **I am open to entry-level roles in software engineering, backend development, data analytics, data engineering, and cloud-focused positions. I am eager to learn, contribute, and grow in a professional engineering environment.**
