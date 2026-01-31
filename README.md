@@ -3,7 +3,7 @@ Entry-Level Software Engineer | Data & Backend Enthusiast |  Open to Freshers Ro
 
 ## About Me
 __________
-- ** I am an aspiring software engineer actively seeking entry-level opportunities across software development, data analytics, backend, and cloud-related roles. I have hands-on experience through internships and academic projects, with stronger expertise in Python and SQL.
+- I am an aspiring software engineer actively seeking entry-level opportunities across software development, data analytics, backend, and cloud-related roles. I have hands-on experience through internships and academic projects, with stronger expertise in Python and SQL.
 - My work focuses on building practical, real-world solutions involving data processing, analytics, automation, CI/CD workflows, and backend logic. I am comfortable working across the full development lifecycle and continuously improving my problem-solving and system design skills.**
 
 ## Profiles & Contact
