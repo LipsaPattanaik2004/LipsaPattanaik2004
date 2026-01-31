@@ -24,13 +24,13 @@ Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook
 
 ## Internships & Practical Experience
 ______________________
-** Summer Intern — Celebal Technologies | On-Campus Internship | May – July 2025  **
+### Summer Intern — Celebal Technologies | On-Campus Internship | May – July 2025  
 - Worked on a Customer Lifetime Value (CLV) prediction project involving end-to-end data analysis and modeling. Contributed to data preprocessing, feature engineering, and model development using Python and Pandas. Applied regression and clustering techniques to analyze customer behavior patterns and business value.
 - Gained practical exposure to SQL-based data handling, ETL workflows, and object-oriented programming concepts. Also received introductory exposure to GenAI use cases in analytics. Successfully completed the internship with certification and positive performance feedback.**
 
 ## Projects
 _______________________
-- ** Deploy-Sentry — CI/CD Monitoring Platform  
+- Deploy-Sentry — CI/CD Monitoring Platform  
 Built a CI/CD monitoring and observability platform using Python, Docker, and Kubernetes to track deployment health and pipeline status.
 - Operational Efficiency Analytics System  
 Designed an end-to-end analytics solution using SQL, Power BI, Azure, and Snowflake to analyze KPIs and operational metrics.
