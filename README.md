@@ -37,5 +37,6 @@ Worked on real-world data-driven and backend-focused systems using Python, apply
 _______________________
 Seeking entry-level opportunities across Software Engineering, Backend Development, Data Analytics, and Cloud-based roles where I can contribute to building scalable systems, developing efficient APIs, and working with data-driven solutions in real-world environments.
 
-### Email: pattanaiklipsa125@gmail.com
-### LinkedIn: https://www.linkedin.com/in/lipsa-pattanaik-196b2a285/
+### 📩 Reach out at:-
+- Email: pattanaiklipsa125@gmail.com
+- LinkedIn: https://www.linkedin.com/in/lipsa-pattanaik-196b2a285/
