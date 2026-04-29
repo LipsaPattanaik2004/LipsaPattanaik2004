@@ -1,7 +1,6 @@
 Hi, I'm Lipsa Pattanaik
 
-Final-year B.Tech Computer Science Engineering | ITER, SOA UNIVERSITY
-Aspiring Software Engineer | Backend Development | Data Analytics | Cloud Computing | AI & ML
+Final-year B.Tech Computer Science Engineering | ITER, SOA UNIVERSITY | Aspiring Software Engineer | Backend Development | Data Analytics | Cloud Computing | AI & ML | Summer Intern'25 at Celebal Technologies
 
 I enjoy building scalable applications, working with Python, Java and SQL to develop backend systems, analyze data, and deploy solutions on cloud platforms. I focus on creating efficient, data-driven, and real-world software solutions across different domains.
 
@@ -18,19 +17,19 @@ ___________________________
 
 ## Featured Projects
 _______________________
-- Deploy-Sentry – CI/CD Monitoring Platform
+- DeploySentry CI/CD Monitoring Platform
 Built a monitoring platform using Python, Docker, and Kubernetes to track deployment health and pipeline performance.
 
-- NodePulse – Distributed System Telemetry Collector:-
+- NodePulse Distributed System Telemetry Collector:-
 Developed a distributed system using Python and Flask to collect and process system metrics like CPU and memory across multiple nodes.
 
-- ContainerFlow – Cloud Based Deployment Platform:-
+- ContainerFlow Cloud Based Deployment Platform:-
 Containerized a Flask backend application using Docker and deployed it on AWS to simulate production-ready environments.
 
-- TaskForgeX – Task Lifecycle Management System:-
+- TaskForgeX Task Lifecycle Management System:-
 Built a role-based backend system using Flask and SQL to manage tasks through REST API development and secure workflows.
 
-- ResumeSense – AI JD Matcher:-
+- ResumeSense AI JD Matcher:-
 Created an NLP-based system using BERT and cosine similarity to match resumes with job descriptions through semantic analysis.
 
 ## Internship Experience
