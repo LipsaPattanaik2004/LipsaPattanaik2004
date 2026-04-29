@@ -1,5 +1,7 @@
 Hi, I'm Lipsa Pattanaik
+
 Final-year B.Tech Computer Science Engineering | ITER, SOA UNIVERSITY | Aspiring Software Engineer | Backend Development | Data Analytics | Cloud Computing | AI & ML | Summer Intern'25 at Celebal Technologies
+
 I enjoy building scalable applications, working with Python, Java and SQL to develop backend systems, analyze data, and deploy solutions on cloud platforms. I focus on creating efficient, data-driven, and real-world software solutions across different domains.
 
 ## Core Skills
