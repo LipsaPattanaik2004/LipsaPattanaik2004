@@ -1,38 +1,46 @@
 Hi, I'm Lipsa Pattanaik
 
-Final-year B.Tech Computer Science student
-Aspiring Software Engineer | Data & Backend Enthusiast
+Final-year B.Tech Computer Science Engineering | ITER, SOA UNIVERSITY
+Aspiring Software Engineer | Backend Development | Data Analytics | Cloud Computing | AI & ML
 
-I enjoy building data-driven systems and backend solutions, working with Python and SQL to analyze datasets, automate workflows, and develop scalable applications.
+I enjoy building scalable applications, working with Python, Java and SQL to develop backend systems, analyze data, and deploy solutions on cloud platforms. I focus on creating efficient, data-driven, and real-world software solutions across different domains.
 
-Core Skills
+## Core Skills
+___________________________
+- Programming: Python, Java, C/C++, SQL
+- Backend & APIs: Flask, REST API Development, API Design & Integration, JWT Authentication
+- Data & Analytics: Pandas, NumPy, Exploratory Data Analysis (EDA), Data Preprocessing
+- Databases: MySQL, SQL, Data Modeling, ETL Basics
+- AI/ML: Generative AI, NLP, BERT, Cosine Similarity, Model Evaluation, Feature Engineering
+- Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Containerization
+- Tools: Git, GitHub, Postman, Jupyter Notebook, VS Code
+- Core Concepts: OOP, DBMS, Operating Systems, Computer Networks
 
-- Programming: Python, Java, C, SQL
-- Data & Analytics: SQL Analytics, Exploratory Data Analysis (EDA), Power BI, KPI Dashboards
-- Databases: MySQL, Snowflake, Data Modeling, ETL Pipelines
-- Backend & Software Concepts: OOP, DBMS, REST APIs
-- Cloud & DevOps: AWS Fundamentals, Docker, Kubernetes, CI/CD
-- Tools: Git, GitHub, VS Code, Jupyter Notebook
-
-Featured Projects
-
+## Featured Projects
+_______________________
 - Deploy-Sentry – CI/CD Monitoring Platform
 Built a monitoring platform using Python, Docker, and Kubernetes to track deployment health and pipeline performance.
 
-- AutoCleanX – Data Sanitizer
-Developed a Python-based automated data cleaning tool handling missing values, validation, outlier detection, and export-ready datasets.
+- NodePulse – Distributed System Telemetry Collector
+Developed a distributed system using Python and Flask to collect and process system metrics like CPU and memory across multiple nodes.
 
-- InsightSphere – Sales Analytics EDA
-Performed end-to-end sales data analysis including feature engineering, exploratory analysis, and insights for BI dashboards.
+- ContainerFlow – Cloud Based Deployment Platform
+Containerized a Flask backend application using Docker and deployed it on AWS to simulate production-ready environments.
+
+- TaskForgeX – Task Lifecycle Management System
+Built a role-based backend system using Flask and SQL to manage tasks through REST API development and secure workflows.
 
 - ResumeSense – AI JD Matcher
-Created an NLP-based system that matches resumes with job descriptions using semantic similarity and embeddings.
+Created an NLP-based system using BERT and cosine similarity to match resumes with job descriptions through semantic analysis.
 
-Internship Experience
+## Internship Experience
+_________________
+### Summer Intern – Celebal Technologies (2025)
+Worked on real-world data-driven and backend-focused systems using Python, applying object-oriented programming, data processing, and database concepts to solve practical problems. Performed data analysis, feature engineering, regression, and clustering to extract insights and improve model performance. Built and optimized workflows using SQL, Pandas, and NumPy, while also gaining exposure to Generative AI concepts and end-to-end system development.
 
-Summer Intern – Celebal Technologies (2025)
-Worked on a Customer Lifetime Value (CLV) prediction project, applying Python, Pandas, regression, and clustering to analyze customer behavior and business value.
+## Career Focus
+_______________________
+Seeking entry-level opportunities across Software Engineering, Backend Development, Data Analytics, and Cloud-based roles where I can contribute to building scalable systems, developing efficient APIs, and working with data-driven solutions in real-world environments.
 
-Career Focus
-
-Seeking entry-level roles in Software Engineering, Data Analytics, Backend Development, or Data Engineering, where I can build practical systems and extract meaningful insights from data.
+### Email: pattanaiklipsa125@gmail.com
+### LinkedIn: https://www.linkedin.com/in/lipsa-pattanaik-196b2a285/
