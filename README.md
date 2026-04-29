@@ -17,15 +17,15 @@ ___________________________
 
 ## Featured Projects
 _______________________
-DeploySentry – CI/CD Monitoring Platform
+- DeploySentry – CI/CD Monitoring Platform
 Built a monitoring platform using Python, Docker, and Kubernetes to track deployment health and pipeline performance.
-NodePulse – Distributed System Telemetry Collector
+- NodePulse – Distributed System Telemetry Collector
 Developed a distributed system using Python and Flask to collect and process system metrics like CPU and memory across multiple nodes.
-ContainerFlow – Cloud-Based Deployment Platform
+- ContainerFlow – Cloud-Based Deployment Platform
 Containerized a Flask backend application using Docker and deployed it on AWS to simulate production-ready environments.
-TaskForgeX – Task Lifecycle Management System
+- TaskForgeX – Task Lifecycle Management System
 Built a role-based backend system using Flask and SQL to manage tasks through REST API development and secure workflows.
-ResumeSense – AI JD Matcher
+- ResumeSense – AI JD Matcher
 Created an NLP-based system using BERT and cosine similarity to match resumes with job descriptions through semantic analysis.
 
 ## Internship Experience
